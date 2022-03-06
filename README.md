@@ -1,3 +1,6 @@
 # Laboratorio
+
 Unidad 2
-Some description.
+
+Gestion del software.
+Herramienta para el manejo de versionamiento de software.
